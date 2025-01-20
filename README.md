@@ -13,7 +13,7 @@ Currently, I'm studying at **SMK Pangeran Wijaya Kusuma**, while actively learni
 - 🖥️ Actively applying skills in **IT Development** through **Praktik Kerja Lapangan (PKL)** as an **IT Developer** at **SMK Pangeran Wijaya Kusuma**.  
 ### 🔗 Connect with Me  
 - **Instagram**: [@tegarruuu](https://www.instagram.com/tegarruuu)  
-- **LinkedIn**: (www.linkedin.com/in/tegar-satria-814303299)  
-- **Email**: tegarsatria481@gmail.com  
+- **LinkedIn**: [Tegar Satria](www.linkedin.com/in/tegar-satria-814303299)  
+- **Email**: [Contact me](tegarsatria481@gmail.com)  
 
 This repository contains my journey, projects, and ideas as an **IT Developer**. Feel free to explore, and let’s connect for collaboration or discussion! 🚀
