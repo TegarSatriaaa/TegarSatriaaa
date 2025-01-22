@@ -1,7 +1,7 @@
 ### Hey there! 👋 I'm **Tegar Satria**  
 Welcome to my GitHub profile! I'm an **IT Developer** passionate about technology, problem-solving, and creating impactful solutions.  
 
-Currently, I'm studying at **SMK Pangeran Wijaya Kusuma**, while actively learning and building projects as a **Frontend and Backend Developer**.
+Currently, I'm studying at **SMK Pangeran Wijaya Kusuma**, while actively learning and building projects as a **Ai Engineer**.
 
 ---
 
